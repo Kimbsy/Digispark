@@ -1,6 +1,6 @@
 #include "DigiKeyboard.h"
 
-int on_wait = 5000;
+int on_wait = 10000;
 int off_wait = 1000;
 
 void setup() {
